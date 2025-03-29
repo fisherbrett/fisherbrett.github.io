@@ -2,6 +2,7 @@
 title: Why I Converted from Vue to React
 date: '2020-07-03T23:46:37.121Z'
 layout: post
+tags: archive
 ---
 
 **EDIT: After receiving a lot of comments on this post, I realized that not all of the information I presented is accurate. I just released an updated version of this article that you can read [here](/posts/why-i-switched-to-react-new/). I will keep this article for historical reasons, but note that I don't hold all of the same views that I have presented here.**

@@ -2,6 +2,7 @@
 title: How I Used JavaScript to Scrape Over 8000 Chinese Characters
 date: '2020-07-18T23:46:37.121Z'
 layout: post
+tags: archive
 ---
 
 At the beginning of 2019, I decided to sign up for a Mandarin Chinese 101 class at my university. Studying Chinese has since become one of my favorite pastimes, and to this day I continue to take private lessons via [italki](https://www.italki.com/).

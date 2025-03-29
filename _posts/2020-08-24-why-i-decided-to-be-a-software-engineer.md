@@ -2,6 +2,7 @@
 title: Why I Decided to be a Software Engineer
 date: '2020-08-24T23:46:37.121Z'
 layout: post
+tags: archive
 ---
 
 As I enter my senior year of college studying computer science, I've had a lot of time to think about what kind of career I want. I've reflected a lot on my decision to become a software engineer. I've held various jobs doing web development for my school and completed internships with SimpleNexus, BlueHost, and Amazon. These have all provided me with great experience and only strengthened my desire to dedicate my career to software engineering. But it wasn't easy to decide to major in computer science. It was an even harder decision to stick with it. Today I'll write about the challenges I faced while trying to decide on my career.

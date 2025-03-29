@@ -25,12 +25,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  fisherbrett
+google_analytics: G-C7NHJXQQ24
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+feed:
+  tags:
+    except:
+      - archive
+      
 livereload: true
 
 # Custom permalink structure to match your previous site

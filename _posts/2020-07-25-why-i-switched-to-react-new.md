@@ -2,6 +2,7 @@
 title: Why I Converted from Vue to React - UPDATED
 date: '2020-07-25T23:46:37.121Z'
 layout: post
+tags: archive
 ---
 
 [The original version of this article](/posts/why-i-switched-to-react/) got a lot more attention than I was expecting, especially since it was only my second post on dev.to. I'm grateful to everyone who read it and left feedback! As I read through the comments, I learned that some of the content of the original article wasn't entirely accurate and that I also wasn't clear about several of the points I was trying to make. My original article was an attempt to explain from a more technical standpoint why I chose React over Vue, but I realized I didn't quite have enough knowledge to tackle that in depth. In fact, I learned that I've gone the direction I have not because of "under the hood" differences between React and Vue, but instead out of small experiences that have shaped what feels the most comfortable for me in my career as a web developer. For other developers, Vue may feel more at home, and there's nothing wrong with that.
